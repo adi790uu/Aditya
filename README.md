@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi790uu" alt="adi790uu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/adi790u" target="blank"><img src="https://img.shields.io/twitter/follow/adi790u?logo=twitter&style=for-the-badge" alt="adi790u" /></a> </p>
 
 - 🌱 I’m currently interested in **Devops, Backend Engineering and Ai/Ml**
