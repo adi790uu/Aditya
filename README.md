@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/adi790u" target="blank"><img src="https://img.shields.io/twitter/follow/adi790u?logo=twitter&style=for-the-badge" alt="adi790u" /></a> </p>
 
