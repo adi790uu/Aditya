@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/adi790u" target="blank"><img src="https://img.shields.io/twitter/follow/adi790u?logo=twitter&style=for-the-badge" alt="adi790u" /></a> </p>
 
-- 🌱 I’m currently interested in **Devops, Backend Engineering and Ai/Ml**
+- 🌱 I’m currently interested in **DevOps and Backend Engineering**
 
-- 💬 Ask me about **MERN stack and T3 stack**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **adi37068@gmail.com**
 
